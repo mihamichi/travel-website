@@ -92,17 +92,17 @@
     #scroll-top:hover {
       background: #fb8500;
     }
-.logo-container {
-  position: absolute;
-  top: 10px;
-  left: 10px;
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 15px; /* space between images */
+  max-width: 450px; /* limit total width */
+  margin: 0 auto; /* center the grid */
 }
 
-.logo-image {
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid #fff;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+.image-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
