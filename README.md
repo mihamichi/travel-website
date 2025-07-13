@@ -112,10 +112,10 @@
 
   <div class="destination">
     <h3>6. Vienna, Austria 🎻</h3>
-    <img src="vienna5.jpeg" alt="Vienna castle" />
-    <img src="vienna2.jpeg" alt="Museum" />
-    <img src="vienna3.jpeg" alt="Museum" />
-    <img src="vienna1.jpeg" alt="Castle" />
+    <img src="vienna5.jpeg" style="width: 200px; height: 150px;" alt="Vienna castle" />
+    <img src="vienna2.jpeg" style="width: 200px; height: 150px;" alt="Museum" />
+    <img src="vienna3.jpeg" style="width: 200px; height: 150px;" alt="Museum" />
+    <img src="vienna1.jpeg" style="width: 200px; height: 150px;" alt="Castle" />
     <h4 class="highlight-text">Enjoy coffeehouse culture, home of Mozart, beautiful museums, and operas.</h4>
   </div>
 </section>
