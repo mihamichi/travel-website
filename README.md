@@ -15,17 +15,14 @@
     </ul>
   </nav>
 </header>
-
 <!-- Yellow top bar -->
 <div style="background-color: #ffb703; color: white; padding: 15px 0; text-align: center; font-size: 22px; font-weight: bold;">
   ✈️ Dream Travel Destinations 💗
 </div>
-
 <!-- Welcome Message -->
 <div id="welcomeMsg" style="text-align:center; font-size: 20px; padding: 20px 0;">
   👋 Welcome to my website!
 </div>
-
 <!-- About Me Section -->
 <section class="section-box" id="about">
   <h2>About Me 👋</h2>
@@ -41,20 +38,16 @@
 <!-- Top 6 Destinations Section -->
 <section class="section-box" id="destinations">
   <h2>Top 6 Dream Travel Destinations ✈️</h2>
-
   <div class="destination">
-  <h3>1. Istanbul, Turkey 🕌</h3>
-  <div class="image-grid">
+    <h3>1. Istanbul, Turkey 🕌</h3>
     <img src="istanbul1.jpeg" alt="Istanbul view" />
     <img src="istanbul3.jpeg" alt="Istanbul city street" />
     <img src="istanbul6.jpeg" alt="Istanbul market" />
     <img src="istanbul5.jpeg" alt="Istanbul cat" />
+    <h4 class="highlight-text">
+      Rich in culture and history, Istanbul connects Europe and Asia in a magical way.
+    </h4>
   </div>
-  <h4 class="highlight-text">
-    Rich in culture and history, Istanbul connects Europe and Asia in a magical way.
-  </h4>
-</div>
-
   <div class="destination">
     <h3>2. Paris, France 🗼</h3>
     <img src="paris1.jpeg" alt="Eiffel Tower" />
@@ -65,7 +58,6 @@
       Fall in love with the City of Lights – home to the Eiffel Tower and world-famous art.
     </h4>
   </div>
-
   <div class="destination">
     <h3>3. Edinburgh, Scotland 🏰</h3>
     <img src="edinburgh1.jpeg" alt="Edinburgh castle" />
@@ -76,7 +68,6 @@
       Stunning castles, cozy pubs, and beautiful highlands await you in Scotland's capital.
     </h4>
   </div>
-
   <div class="destination">
     <h3>4. Santorini, Greece 🌊</h3>
     <img src="greece5.jpeg" alt="Greece" />
@@ -87,7 +78,6 @@
       Famous for its white-washed buildings and unforgettable Aegean sunsets.
     </h4>
   </div>
-
   <div class="destination">
     <h3>5. Zurich, Switzerland 🏔️</h3>
     <img src="switzerland5.jpeg" alt="Swan" />
@@ -98,7 +88,6 @@
       Enjoy majestic Alps, serene lakes, and some of the best chocolate on Earth.
     </h4>
   </div>
-
   <div class="destination">
     <h3>6. Vienna, Austria 🎻</h3>
     <img src="vienna5.jpeg" alt="Vienna castle" />
@@ -110,7 +99,6 @@
     </h4>
   </div>
 </section>
-
 <!-- Facts Section -->
 <section class="section-box" id="facts">
   <h2>Facts & Why I Want to Visit These Places 💬</h2>
@@ -119,14 +107,12 @@
     📍 Click here to view the facts and reasons
   </a>
 </section>
-
 <!-- Interactive Dream Destination Input -->
 <div class="text-center my-4">
   <h2>✨ Tell me your dream destination!</h2>
   <button onclick="suggestDestination()">Click Here</button>
   <p id="destinationResponse" style="font-weight: bold; margin-top: 10px;"></p>
 </div>
-
 <!-- Contact Section -->
 <section class="section-box" id="contact">
   <h2>Contact 📧</h2>
@@ -137,20 +123,16 @@
     </a>
   </p>
 </section>
-
 <footer>
   <p>Student ID: 24224019 | Name: Nafisha Shamiha Islam</p>
 </footer>
-
 <!-- Scroll to top button -->
 <div id="scroll-top" title="Scroll to top" onclick="window.scrollTo({top:0, behavior:'smooth'});">
   <i class="bi bi-arrow-up-short"></i>
 </div>
-
 <script>
   // Welcome message
   document.getElementById("welcomeMsg").innerText = "👋 Welcome to my website!";
-
   // User destination prompt
   function suggestDestination() {
     const place = prompt("Where would you love to go?");
@@ -159,7 +141,6 @@
         "That sounds amazing! " + place + " is definitely worth visiting!";
     }
   }
-
   // Show/hide scroll to top button
   window.addEventListener('scroll', () => {
     const scrollBtn = document.getElementById('scroll-top');
@@ -170,7 +151,5 @@
     }
   });
 </script>
-
 </body>
 </html>
-
