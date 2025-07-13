@@ -21,14 +21,7 @@
 </div>
 <!-- Welcome Message -->
 <div id="welcomeMsg" style="text-align:center; font-size: 20px; padding: 20px 0;">
-  👋 Welcome to my website!
-</div>
-<!-- Interactive Dream Destination Input -->
-<div class="text-center my-4">
-  <h2>✨ Tell me your dream destination!</h2>
-  <button onclick="suggestDestination()">Click Here</button>
-  <p id="destinationResponse" style="font-weight: bold; margin-top: 10px;"></p>
-</div>	
+  👋 Welcome to my website!	
 <!-- About Me Section -->
 <section class="section-box" id="about">
   <h2>About Me 👋</h2>
@@ -41,6 +34,14 @@
       iPortfolio Template by Themewagon
     </a>
   </p>
+<!-- Interactive Dream Destination Input -->
+<div class="text-center my-4" style="text-align: center; margin: 20px auto;">
+  <h2>✨ Tell me your dream destination!</h2>
+  <button onclick="suggestDestination()" style="padding: 10px 20px; font-size: 16px; border: none; border-radius: 8px; background-color: #ffb703; color: white; font-weight: bold; cursor: pointer;">
+    Click Here
+  </button>
+  <p id="destinationResponse" style="font-weight: bold; margin-top: 10px;"></p>
+</div>
 <!-- Top 6 Destinations Section -->
 <section class="section-box" id="destinations">
   <h2>Top 6 Dream Travel Destinations ✈️</h2>
@@ -112,12 +113,6 @@
     📍 Click here to view the facts and reasons
   </a>
 </section>
-<!-- Interactive Dream Destination Input -->
-<div class="text-center my-4">
-  <h2>✨ Tell me your dream destination!</h2>
-  <button onclick="suggestDestination()">Click Here</button>
-  <p id="destinationResponse" style="font-weight: bold; margin-top: 10px;"></p>
-</div>
 <!-- Contact Section -->
 <section class="section-box" id="contact">
   <h2>Contact 📧</h2>
