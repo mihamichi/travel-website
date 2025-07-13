@@ -4,11 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 <body>
-
-<header class="d-flex justify-content-between align-items-center px-4">
-  <h1>Dream Travel 💗</h1>
+  <header>
   <nav>
-    <ul class="navbar-nav flex-row gap-4 mb-0">
+   <ul class="navbar-nav flex-row gap-4 mb-0">
       <li><a href="#about">About Me</a></li>
       <li><a href="#destinations">Top 6 Travel Destinations</a></li>
       <li><a href="#facts">Facts & Why I Want to Travel</a></li>
@@ -16,7 +14,6 @@
     </ul>
   </nav>
 </header>
-
 <!-- Yellow top bar -->
 <div style="background-color: #ffb703; color: white; padding: 15px 0; text-align: center; font-size: 22px; font-weight: bold;">
   ✈️ Dream Travel Destinations 💗
