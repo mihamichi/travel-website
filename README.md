@@ -106,11 +106,9 @@
   </a>
 </section>
 <!-- Interactive Dream Destination Input -->
-<div class="text-center my-4" style="text-align: center; margin: 20px auto;">
+<div class="text-center my-4">
   <h2>✨ Tell me your dream destination!</h2>
-  <button onclick="suggestDestination()" style="padding: 10px 20px; font-size: 16px; border: none; border-radius: 8px; background-color: #ffb703; color: white; font-weight: bold; cursor: pointer;">
-    Click Here
-  </button>
+  <button onclick="suggestDestination()">Click Here</button>
   <p id="destinationResponse" style="font-weight: bold; margin-top: 10px;"></p>
 </div>
 <!-- Contact Section -->
