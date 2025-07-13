@@ -31,20 +31,14 @@
     </div>
   </div>
 </nav>
-</body>
-<!-- Add this to make the navbar not overlap your content -->
+<!-- Offset for fixed navbar -->
 <div style="height: 80px;"></div>
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
- <div id="welcomeMsg" style="text-align:center; font-size: 20px; padding: 20px 0;"></div>
-  <script>
-    document.getElementById("welcomeMsg").innerText = "👋 Welcome to my website!";
-  </script>
-<div class="top-bar">
-  ✈️ Dream Travel Destinations 💗
-</div>
+
+<!-- Welcome Message -->
+<div id="welcomeMsg" style="text-align:center; font-size: 20px; padding: 20px 0;"></div>
+
+<!-- Yellow Top Bar -->
+<div class="top-bar">✈️ Dream Travel Destinations 💗</div>
 <section id="about">
   <h2>About Me 👋</h2>
   <p>Hello! My name is Nafisha Shamiha Islam. I go by Miha as well! I love to travel and explore different cultures, foods, history, and scenery from around the world. Traveling gives me comfort. This website is a small reflection of the places I want to visit someday. I believe travel opens the heart and mind! I'm excited to share my dream destinations with you!</p>
