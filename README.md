@@ -23,6 +23,12 @@
 <div id="welcomeMsg" style="text-align:center; font-size: 20px; padding: 20px 0;">
   👋 Welcome to my website!
 </div>
+<!-- Interactive Dream Destination Input -->
+<div class="text-center my-4">
+  <h2>✨ Tell me your dream destination!</h2>
+  <button onclick="suggestDestination()">Click Here</button>
+  <p id="destinationResponse" style="font-weight: bold; margin-top: 10px;"></p>
+</div>	
 <!-- About Me Section -->
 <section class="section-box" id="about">
   <h2>About Me 👋</h2>
