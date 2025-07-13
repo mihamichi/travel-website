@@ -41,11 +41,9 @@
 </head>
 <body>
  <div id="welcomeMsg" style="text-align:center; font-size: 20px; padding: 20px 0;"></div>
-
   <script>
     document.getElementById("welcomeMsg").innerText = "👋 Welcome to my website!";
   </script>
-</body>
 <div class="top-bar">
   ✈️ Dream Travel Destinations 💗
 </div>
