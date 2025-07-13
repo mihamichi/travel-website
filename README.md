@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -35,7 +34,7 @@
 
 <section style="text-align:center; font-size: 0.9em; color: gray; margin: 30px auto;">
   Template source: 
-  <a href="https://themewagon.github.io/iPortfolio/index.html" target="_blank" rel="noopener noreferrer" style="color: #1d3557;">
+  <a href="https://themewagon.github.io/jadoo/v1.0.0/.html" target="_blank" rel="noopener noreferrer" style="color: #1d3557;">
     iPortfolio Template by Themewagon
   </a>
 </section>
