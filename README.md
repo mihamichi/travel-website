@@ -67,10 +67,10 @@
 
   <div class="destination">
     <h3>1. Istanbul, Turkey 🕌</h3>
-    <img src="istanbul1.jpeg" alt="Istanbul view" />
-    <img src="istanbul3.jpeg" alt="Istanbul city street" />
-    <img src="istanbul5.jpeg" alt="Istanbul cat" />
-    <img src="istanbul4.jpeg" alt="Istanbul cat" />
+    <img src="istanbul1.jpeg" style="width: 200px; height: 150px;" alt="Istanbul view" />
+    <img src="istanbul3.jpeg" style="width: 200px; height: 150px;" alt="Istanbul city street" />
+    <img src="istanbul5.jpeg" style="width: 200px; height: 150px;" alt="Istanbul cat" />
+    <img src="istanbul4.jpeg" style="width: 200px; height: 150px;" alt="Istanbul cat" />
     <h4 class="highlight-text">Rich in culture and history, Istanbul connects Europe and Asia in a magical way.</h4>
   </div>
 
