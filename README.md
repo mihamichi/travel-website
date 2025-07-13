@@ -76,37 +76,37 @@
 
   <div class="destination">
     <h3>2. Paris, France 🗼</h3>
-    <img src="paris1.jpeg" alt="Eiffel Tower" />
-    <img src="paris5.jpeg" alt="Paris view" />
-    <img src="paris2.jpeg" alt="Paris monument" />
-    <img src="paris4.jpeg" alt="Paris coffee shop" />
+    <img src="paris1.jpeg" style="width: 200px; height: 150px;" alt="Eiffel Tower" />
+    <img src="paris5.jpeg" style="width: 200px; height: 150px;" alt="Paris view" />
+    <img src="paris2.jpeg" style="width: 200px; height: 150px;" alt="Paris monument" />
+    <img src="paris4.jpeg" style="width: 200px; height: 150px;" alt="Paris coffee shop" />
     <h4 class="highlight-text">Fall in love with the City of Lights – home to the Eiffel Tower and world-famous art.</h4>
   </div>
 
   <div class="destination">
     <h3>3. Edinburgh, Scotland 🏰</h3>
-    <img src="edinburgh1.jpeg" alt="Edinburgh castle" />
-    <img src="edinburgh3.jpeg" alt="Edinburgh street" />
-    <img src="edinburgh4.jpeg" alt="Edinburgh bookstore" />
-    <img src="edinburgh5.jpeg" alt="Edinburgh street" />
+    <img src="edinburgh1.jpeg" style="width: 200px; height: 150px;" alt="Edinburgh castle" />
+    <img src="edinburgh3.jpeg" style="width: 200px; height: 150px;" alt="Edinburgh street" />
+    <img src="edinburgh4.jpeg" style="width: 200px; height: 150px;" alt="Edinburgh bookstore" />
+    <img src="edinburgh5.jpeg" style="width: 200px; height: 150px;" alt="Edinburgh street" />
     <h4 class="highlight-text">Stunning castles, cozy pubs, and beautiful highlands await you in Scotland's capital.</h4>
   </div>
 
   <div class="destination">
     <h3>4. Santorini, Greece 🌊</h3>
-    <img src="greece5.jpeg" alt="Greece" />
-    <img src="greece2.jpeg" alt="Greece river" />
-    <img src="greece3.jpeg" alt="Greece street" />
-    <img src="greece4.jpeg" alt="Greece street" />
+    <img src="greece5.jpeg" style="width: 200px; height: 150px;" alt="Greece" />
+    <img src="greece2.jpeg" style="width: 200px; height: 150px;" alt="Greece river" />
+    <img src="greece3.jpeg" style="width: 200px; height: 150px;" alt="Greece street" />
+    <img src="greece4.jpeg" style="width: 200px; height: 150px;" alt="Greece street" />
     <h4 class="highlight-text">Famous for its white-washed buildings and unforgettable Aegean sunsets.</h4>
   </div>
 
   <div class="destination">
     <h3>5. Zurich, Switzerland 🏔️</h3>
-    <img src="switzerland5.jpeg" alt="Swan" />
-    <img src="switzerland3.jpeg" alt="Switzerland" />
-    <img src="switzerland2.jpeg" alt="River" />
-    <img src="switzerland4.jpeg" alt="Train" />
+    <img src="switzerland5.jpeg" style="width: 200px; height: 150px;" alt="Swan" />
+    <img src="switzerland3.jpeg" style="width: 200px; height: 150px;" alt="Switzerland" />
+    <img src="switzerland2.jpeg" style="width: 200px; height: 150px;" alt="River" />
+    <img src="switzerland4.jpeg" style="width: 200px; height: 150px;" alt="Train" />
     <h4 class="highlight-text">Enjoy majestic Alps, serene lakes, and some of the best chocolate on Earth.</h4>
   </div>
 
