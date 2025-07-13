@@ -43,15 +43,17 @@
   <h2>Top 6 Dream Travel Destinations ✈️</h2>
 
   <div class="destination">
-    <h3>1. Istanbul, Turkey 🕌</h3>
+  <h3>1. Istanbul, Turkey 🕌</h3>
+  <div class="image-grid">
     <img src="istanbul1.jpeg" alt="Istanbul view" />
     <img src="istanbul3.jpeg" alt="Istanbul city street" />
     <img src="istanbul6.jpeg" alt="Istanbul market" />
     <img src="istanbul5.jpeg" alt="Istanbul cat" />
-    <h4 class="highlight-text">
-      Rich in culture and history, Istanbul connects Europe and Asia in a magical way.
-    </h4>
   </div>
+  <h4 class="highlight-text">
+    Rich in culture and history, Istanbul connects Europe and Asia in a magical way.
+  </h4>
+</div>
 
   <div class="destination">
     <h3>2. Paris, France 🗼</h3>
