@@ -48,7 +48,7 @@
 <!-- Top 6 Destinations Section -->
 <section class="section-box" id="destinations">
   <h2>Top 6 Dream Travel Destinations ✈️</h2>
-
+  
   <div class="destination">
     <h3>1. Istanbul, Turkey 🕌</h3>
     <img src="istanbul1.jpeg" alt="Istanbul view" />
@@ -107,6 +107,7 @@
       Enjoy coffeehouse culture, home of Mozart, beautiful museums, and operas.
     </h4>
   </div>
+</section>
 
 <!-- Facts Section -->
 <section class="section-box" id="facts">
